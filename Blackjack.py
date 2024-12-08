@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 cash = 1000
-print(f"You cash is : {cash}")
+print(f"Your cash is : {cash}")
 bet = 300
 
 cash -= bet
